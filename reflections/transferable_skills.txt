@@ -1,0 +1,11 @@
+EDUCATION:
+Saint Petersburg State University 
+Applied Mathematics and Control Processes
+Master's degree, Applied Mathematics and Computer Science, 2002 – 2007 
+
+EXPERIENCE:
+about 9 years of C/C++ development
+
+SKILLS:
+- C/C++, embedded Linux development;
+- solid math background (control theory, probability theory, etc).

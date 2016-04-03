@@ -1,0 +1,2 @@
+- to move from C++ embedded to web development;
+- become a Ruby backend developer.

@@ -1,0 +1,2 @@
+As C++ developer in the recent past I have concern that Ruby is considered slow.
+What techniques of metaprogramming are there in Ruby?
